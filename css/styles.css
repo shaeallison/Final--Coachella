@@ -1,0 +1,221 @@
+.body {
+   background-color: #D691DB;
+
+}
+
+.firstheading{
+   font-size: 20px;
+   font-family: bebasneue;
+}
+
+.container{
+   background: url('../photos/opacity.png');
+   border-radius: 5px;
+}
+
+a:link{
+   color:#D691DB;
+   font-family:web;
+
+}
+.header{
+   font-family: web;
+   font-size: 40px;
+}
+
+.coachella{
+    width: 60%;
+    display: block;
+    margin: auto;
+    position: absolute;
+    right: ;
+    left: 18%;
+    z-index: 2;
+}
+
+.topphoto{
+    padding: 0px;
+    width: 105%;
+    margin: -12px;
+}
+
+.navbar-container1{
+   margin-top: 16px;
+   background-color: white;
+   border: 5px solid white;
+   border-radius: 5px;
+}
+
+
+.circles{
+    width: 25%;
+    padding-top: 25px;
+    padding: 3%;
+    
+}
+
+.infobox{
+   background-color: white;
+   padding: 5px;
+   border: 5px solid white;
+   border-radius: 5px;
+}
+
+.infotext{
+   padding-left: 8px;
+   font-family: web;
+   font-size: 20px;
+}
+
+
+.containertwitter{
+  max-width: 1140px;
+  max-height: 475px;
+  overflow: scroll;
+  padding: 10px;
+  background-color:white;
+   display: block;
+   margin: auto;
+   border: 5px solid white;
+   border-radius: 5px;
+}
+
+p.tweet {
+  background-color: white;
+}
+
+.tweet{
+  color: #D691DB;
+  max-width: 1140px;
+   font-family: web;
+  font-size: 16px;
+}
+
+.time{
+  color: #8F3A65;
+  font-size: 11px;
+}
+
+.bird{
+   width: 5%;
+}
+
+@font-face{
+    font-family:bebasneue;
+    src: url(../fonts/BebasNeue.otf);
+}
+
+@font-face{
+    font-family:basic;
+    src: url(../fonts/basictitlefont.ttf);
+}
+
+@font-face{
+    font-family:web;
+    src: url(../fonts/weblysleekuil.ttf);
+}
+
+img {
+    width: 25%;
+    padding: 5px;
+}
+
+
+.box{
+    max-width: 1140px;
+    height: 475px;
+    background-color: white;
+    padding: 5px;
+   display: block;
+   margin: auto;
+   overflow: scroll;
+   border: 5px solid white;
+   border-radius: 5px;
+}
+
+.camera{
+   width:5%;
+   padding-left: 10px;
+}
+
+.titlefont{
+    font-size: 40px;
+    margin: 5px;
+    font-family: bebasneue;
+    color: #8F3A65;
+    display: block;
+}
+
+
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 500%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 20%;
+  border: 0;
+  }
+  
+.mapbox {
+   background-color: white;
+   padding: 5px;
+   border: 10px solid white;
+   border-radius: 5px;
+}
+
+iframe{
+   padding-right: 10px;
+}
+
+.playlist{
+
+   display: block;
+   margin: auto;
+}
+
+.linetab{
+   padding-right: 15px;
+   padding-left: 15px;
+}
+
+.band{
+   width: 50%;
+}
+
+.bandplay{
+   padding-top: 60px;
+}
+
+.crowd{
+   width: 102%;
+   height: 60%;
+}
+
+.lineupinfo{
+   padding-left: 20px;
+   padding-right: 20px;
+}
